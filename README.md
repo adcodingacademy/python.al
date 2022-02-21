@@ -1,0 +1,2 @@
+# python.alb
+Python Shqip
